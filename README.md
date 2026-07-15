@@ -7,6 +7,9 @@
 > **Project Type:** Independent Data Analytics Case Study
 
 ---
+## 📌 Project Context
+
+This repository documents an SEO and data analytics assessment completed for **Kalvix Nexus** during its candidate evaluation process. The assignment involved keyword research, research documentation, and Excel dashboard creation. The repository is shared as a portfolio case study highlighting the analytical workflow and final deliverables.
 
 ## 📌 Project Objective
 
