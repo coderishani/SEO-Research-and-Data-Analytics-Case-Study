@@ -4,7 +4,7 @@
 ![Dashboard](screenshots/<img width="1158" height="871" alt="Kalvix Nexus Dashboard Screenshot" src="https://github.com/user-attachments/assets/f79d3dbc-b15f-49b1-921a-a8ee81e5d331" />
 )
 
-> **Project Type:** Independent Data Analytics Case Study
+> **Project Type:** Candidate Assessment
 
 ---
 ## 📌 Project Context
@@ -16,6 +16,14 @@ This repository documents an SEO and data analytics assessment completed for **K
 This project demonstrates an end-to-end SEO research and data analytics workflow. The objective was to organize keyword research, analyze data, and present meaningful business insights through a structured Excel dashboard and supporting documentation.
 
 ---
+## 📁 Deliverables
+
+The repository contains:
+
+- Research Report
+- Keyword Dataset
+- Excel Dashboard
+- Dashboard Screenshot
 
 ## ✨ Project Highlights
 
