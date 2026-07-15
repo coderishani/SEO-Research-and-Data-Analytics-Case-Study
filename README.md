@@ -68,7 +68,7 @@ SEO-Research-and-Data-Analytics-Case-Study/
 ```
 
 
-## 🚀 Skills Demonstrated
+## 🚀 Key Skills Demonstrated
 
 - SEO Research
 - Keyword Analysis
@@ -86,11 +86,11 @@ SEO-Research-and-Data-Analytics-Case-Study/
 
 Through this project, I strengthened my understanding of:
 
-- Organizing structured datasets.
-- Presenting business insights using Excel dashboards.
-- Conducting SEO and market research.
-- Documenting findings in a professional format.
-- Communicating analytical results effectively.
+- SEO keyword research and analysis
+- Organizing and analyzing structured datasets
+- Creating Excel dashboards to present business insights
+- Professional documentation and business reporting
+- Communicating analytical findings effectively
 
 ---
 
